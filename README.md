@@ -1,10 +1,6 @@
 ## Hi there 👋
 🚀 CSE Undergraduate passionate about AI, IoT, Robotics , Data Science & Full-Stack Development.
 Building intelligent systems, participating in hackathons, and exploring research in AI & healthcare.
-<!--
-**Rudra01a/Rudra01a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 -## 👨‍💻 About Me
 
