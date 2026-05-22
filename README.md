@@ -50,3 +50,8 @@ Git • GitHub • Arduino • Firebase • VS Code
 🚀 Hackathons • 📡 Embedded Systems
 
 ---
+
+
+
+Always open to challenging problems, innovative collaborations, and internship opportunities. Let's build technology that matters and create solutions with real-world impact.
+
