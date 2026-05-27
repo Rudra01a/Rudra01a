@@ -94,6 +94,16 @@ Currently Learning:
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Rudra01a/Rudra01a/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 # 🏆 Achievements & Activities
 
 ✨ Active Hackathon Participant  
@@ -125,16 +135,6 @@ Currently Learning:
 
 ---
 
-# 🌱 Current Focus
-
-- Building impactful AI & IoT systems
-- Contributing to innovative hackathon projects
-- Exploring intelligent healthcare solutions
-- Learning scalable full-stack architectures
-- Working on sustainability-driven technologies
-
----
-
 <div align="center">
 
 ### ⚡ "Turning ideas into intelligent systems that create real-world impact."
@@ -144,69 +144,3 @@ Currently Learning:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:374151&height=120&section=footer"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-> Follow these steps once to enable the snake animation:
-
-## 1️⃣ Create a New Repository
-Repository Name:
-```bash
-Rudra01a
-```
-
-## 2️⃣ Add This GitHub Action
-Create:
-```bash
-.github/workflows/snake.yml
-```
-
-Paste this inside:
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Rudra01a
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-## 3️⃣ Add This Line Anywhere In README
-
-```md
-![snake gif](https://github.com/Rudra01a/Rudra01a/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
-# 🎯 Recommended Improvements Later
-
-- Add Portfolio Website
-- Add LeetCode Stats
-- Add Dev Quote API
-- Add Spotify Integration
-- Add Skill Progress Bars
-- Add Animated Project Cards
-- Deploy Personal Portfolio
