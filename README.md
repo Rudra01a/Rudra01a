@@ -41,16 +41,18 @@ Currently Learning:
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://carbonwise25.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra01a&repo=Carbon-Wise&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🌱_Carbon_Wise-Live_Demo-2ea44f?style=for-the-badge" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/Rudra01a/Consent_Based_Data_Sharing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra01a&repo=Consent_Based_Data_Sharing&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/⛓️_Consent_Chain-GitHub_Repository-5865F2?style=for-the-badge" />
 </a>
 
 </div>
